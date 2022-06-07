@@ -1,0 +1,8 @@
+Eseguire script: npx hardhat run scripts/run.js
+
+Create local Ethereum network: start npx hardhat node
+Deploy smart contract locally: npx hardhat run scripts/deploy.js --network localhost
+
+Deploy on rinkeby testnet: npx hardhat run scripts/deploy.js --network rinkeby
+
+
